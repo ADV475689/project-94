@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+
+}
+
+#login{
+    width: 600px;
+}
+#login_div{
+    background-color: white;
+}
